@@ -25,7 +25,7 @@ Once the app is installed, you can open it to access the following pages:
 
 - **Welcome Page**: A brief introduction to the application and its features.
 - **Sign-In Page**: Enter your credentials (email and password) to log in.
-- **Sign-Up Page**: Fill in the required fields (name, email, password, etc.) to create a new account.
+- **Sign-Up Page**: Fill in the required fields (email, password) to create a new account.
 
 ## Development
 
